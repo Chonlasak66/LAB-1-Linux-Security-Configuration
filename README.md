@@ -67,14 +67,6 @@
 
 ---
 
-## 📸 สิ่งที่ต้อง Capture
-- `sudo fail2ban-client status`  
-- `sudo fail2ban-client status sshd`  
-- ไฟล์: `/var/log/system_monitor.log`  
-- `sudo systemctl status fail2ban`  
-
----
-
 ## ✅ สรุป
 Lab นี้แสดงให้เห็นการทำ **Linux Security Hardening** ครบขั้นตอน ได้แก่:  
 - การจัดการผู้ใช้และนโยบายรหัสผ่าน  
@@ -83,5 +75,5 @@ Lab นี้แสดงให้เห็นการทำ **Linux Security H
 - การตั้งค่า Firewall  
 - การตรวจสอบและจัดการ log ระบบ  
 Link Linux Security Server Configuration Download
-
+https://drive.google.com/file/d/1CZCfMIedvQJh3embGGUtwxkysm7NA4xD/view?usp=sharing
 ---
